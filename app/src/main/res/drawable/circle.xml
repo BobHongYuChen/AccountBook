@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--ListView中圆形前缀的形状逻辑-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!--圆形前缀的实心颜色逻辑-->
+    <solid android:color="@android:color/darker_gray"></solid>
+
+    <size android:height="120dp"
+          android:width="120dp">
+    </size>
+</shape>
