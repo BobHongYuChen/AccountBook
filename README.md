@@ -27,3 +27,8 @@
 
 数据库：SQLite
 
+# 效果展示
+
+![主界面](https://i.loli.net/2019/04/18/5cb82adf33cf7.png)
+
+![消费界面](https://i.loli.net/2019/04/18/5cb82adf5576b.png)
